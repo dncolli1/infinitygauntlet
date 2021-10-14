@@ -1,0 +1,11 @@
+Model Information:
+* title:	infinity gauntlet
+* source:	https://sketchfab.com/3d-models/infinity-gauntlet-988655811912400296c2038f6def5115
+* author:	dncolli1 (https://sketchfab.com/dncolli1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "infinity gauntlet" (https://sketchfab.com/3d-models/infinity-gauntlet-988655811912400296c2038f6def5115) by dncolli1 (https://sketchfab.com/dncolli1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
